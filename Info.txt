@@ -1,0 +1,2 @@
+Task 2, 3, 4 - Odradjeni su koriscenjem ASP .NET Core Web Api projekta. Arhitektura je troslojna(kontroler, servis i repozitorijum). Za cuvanje podataka koriscenja je Microsoft MySQL baza, i u projektu se nalaze sve potrebne konfiguracije za to i connectionString.
+Task 5 - Koriscenja je Console Application (.NET Framework)

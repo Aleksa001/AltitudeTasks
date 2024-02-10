@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AltitudeTasks", "AltitudeTasks\AltitudeTasks.csproj", "{6001B811-CE26-4A21-A2FB-589BD240E22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5", "Task5\Task5.csproj", "{CFC95C5F-A7CC-4728-957A-A5576F26AFC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6001B811-CE26-4A21-A2FB-589BD240E22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6001B811-CE26-4A21-A2FB-589BD240E22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6001B811-CE26-4A21-A2FB-589BD240E22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6001B811-CE26-4A21-A2FB-589BD240E22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC95C5F-A7CC-4728-957A-A5576F26AFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC95C5F-A7CC-4728-957A-A5576F26AFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC95C5F-A7CC-4728-957A-A5576F26AFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC95C5F-A7CC-4728-957A-A5576F26AFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF1E5A3-860F-454E-9FCA-9908BC5B4281}
+	EndGlobalSection
+EndGlobal
